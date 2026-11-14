@@ -12,3 +12,6 @@ Older titles: Me-editing `vault/04 Projects/Titles used.md`.
 - His coach taught him more in 1 year than his whole career 💀 (J41-coen)
 - Handing him a game-worn Tiger auto like it's nothing 💀 (J41-tiger)
 - Two rival QB fan clubs might finally have to BOX 💀 (J41-realm)
+- We pulled a $200,000 card on release day 😳 (Card42-dart, Jaxson Dart Black Finite 1/1)
+- The craziest guessing game for a $100K card 😱 (Card42-curry, Steph Curry Papa 1/1)
+- They thought it was over… then THIS shield hit 😱 (Card42-shield, Trevor Lawrence NFL shield auto)
