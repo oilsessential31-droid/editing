@@ -1,0 +1,474 @@
+[
+{
+"n": "r1",
+"id": "playbook",
+"top": "NFL QBs learn HUNDREDS of plays before week 1",
+"segs": [
+[
+0,
+3000
+],
+[
+14200,
+24300
+],
+[
+48800,
+55000
+]
+],
+"green": [
+640,
+17020,
+52600
+],
+"red": [],
+"strobe": [
+1,
+2
+],
+"colors": {
+"playbook": "G",
+"hundreds": "Y",
+"plays": "C",
+"eight": "Y",
+"10": "Y"
+},
+"fix": {
+"-to": "to",
+"-week": "week"
+}
+},
+{
+"n": "r4",
+"id": "ant",
+"top": "His autograph looks like an ANT",
+"segs": [
+[
+1200,
+3000
+],
+[
+9200,
+11900
+],
+[
+12250,
+14000
+],
+[
+15150,
+20300
+],
+[
+27300,
+32500
+]
+],
+"green": [
+1640,
+16180,
+31580
+],
+"red": [
+11300,
+17700
+],
+"strobe": [
+3,
+4
+],
+"colors": {
+"ant": "G",
+"Anthony": "C",
+"Richardson's": "C",
+"Peyton": "C",
+"Manning": "C",
+"respect": "Y"
+},
+"cut": {
+"file": "richardson.png",
+"at": 12760,
+"to": 15100
+}
+},
+{
+"n": "r6",
+"id": "whack",
+"top": "When the QB actually watches your fan videos",
+"segs": [
+[
+59100,
+63000
+],
+[
+64200,
+66200
+],
+[
+77800,
+83600
+],
+[
+91700,
+98500
+]
+],
+"green": [
+60340,
+83080,
+98100
+],
+"red": [
+81480
+],
+"strobe": [
+2,
+3
+],
+"colors": {
+"traveling": "G",
+"Trevor's": "G",
+"whack": "Y",
+"funny": "G",
+"videos": "C"
+}
+},
+{
+"n": "r8",
+"id": "ticket",
+"top": "Gifting him a ticket\u2026 signed by HIMSELF",
+"segs": [
+[
+9800,
+11800
+],
+[
+13900,
+17350
+],
+[
+20800,
+29950
+],
+[
+38200,
+41500
+]
+],
+"green": [
+22480,
+24560,
+27360
+],
+"red": [
+15760
+],
+"strobe": [
+2,
+3
+],
+"colors": {
+"gift": "G",
+"gifting": "Y",
+"ticket": "C",
+"national": "G",
+"championship": "G",
+"signature": "Y",
+"own": "Y"
+}
+},
+{
+"n": "r11",
+"id": "neck",
+"top": "The roast came the second he saw the card",
+"segs": [
+[
+1400,
+16750
+]
+],
+"green": [
+5860,
+9920
+],
+"red": [
+7200,
+14280
+],
+"strobe": [],
+"colors": {
+"Davis": "C",
+"Mills": "C",
+"Ew": "Y",
+"neck": "G",
+"Mike": "C",
+"Glennon": "C"
+},
+"cut": {
+"file": "glennon.png",
+"at": 10420,
+"to": 11900
+}
+},
+{
+"n": "r3",
+"id": "presnap",
+"top": "How often an NFL QB knows it's open BEFORE the snap",
+"segs": [
+[
+0,
+5800
+],
+[
+13100,
+18300
+],
+[
+20400,
+23100
+],
+[
+29100,
+34700
+]
+],
+"green": [
+1720,
+4960,
+16760
+],
+"red": [
+22420,
+33440
+],
+"strobe": [
+1,
+3
+],
+"fix": {
+"-stamps": "snaps",
+"%": "%"
+},
+"colors": {
+"pre": "G",
+"snaps": "G",
+"open": "Y",
+"65": "Y",
+"15": "Y",
+"move": "C"
+}
+},
+{
+"n": "r5",
+"id": "golf",
+"top": "His dream golf four has JESUS in it",
+"segs": [
+[
+11200,
+13700
+],
+[
+17100,
+18500
+],
+[
+26450,
+28550
+],
+[
+32150,
+35500
+],
+[
+35900,
+36900
+],
+[
+45100,
+48300
+],
+[
+50450,
+53400
+]
+],
+"green": [
+12420,
+33480,
+48020,
+51320
+],
+"red": [
+27000
+],
+"strobe": [
+3,
+5
+],
+"fix": {
+"for": "four"
+},
+"colors": {
+"dream": "G",
+"Jesus": "Y",
+"Tiger": "C",
+"goat": "G",
+"golf": "C"
+},
+"cut": {
+"file": "tiger.png",
+"at": 48020,
+"to": 53300
+}
+},
+{
+"n": "r7",
+"id": "coen",
+"top": "His coach taught him more in 1 year than his whole career",
+"segs": [
+[
+5800,
+7800
+],
+[
+11600,
+15200
+],
+[
+18300,
+19500
+],
+[
+30600,
+36400
+],
+[
+66550,
+67800
+],
+[
+106700,
+114100
+]
+],
+"green": [
+6600,
+14380,
+32600,
+107760
+],
+"red": [],
+"strobe": [
+3,
+5
+],
+"fix": {
+"Cohen": "Coen"
+},
+"colors": {
+"Liam": "C",
+"Coen": "C",
+"football": "G",
+"defensive": "Y",
+"coverages": "G",
+"cover": "Y",
+"three": "Y",
+"seam": "G",
+"rip": "Y"
+},
+"cut": {
+"file": "coen.png",
+"at": 6600,
+"to": 7800
+}
+},
+{
+"n": "r9",
+"id": "tiger",
+"top": "Handing him a game-worn Tiger auto like it's nothing",
+"segs": [
+[
+2600,
+11100
+],
+[
+17850,
+23300
+],
+[
+24100,
+27300
+]
+],
+"green": [
+6620,
+9140,
+18200
+],
+"red": [
+23020
+],
+"strobe": [
+1,
+2
+],
+"colors": {
+"Tiger": "C",
+"Tiger's": "C",
+"exquisite": "Y",
+"patch": "G",
+"auto": "G",
+"worn": "Y",
+"Wow": "Y"
+},
+"cut": {
+"file": "tiger.png",
+"at": 6620,
+"to": 11000
+}
+},
+{
+"n": "r13",
+"id": "realm",
+"top": "Two rival QB fan clubs might finally have to BOX",
+"segs": [
+[
+0,
+6100
+],
+[
+9200,
+16700
+],
+[
+17550,
+20300
+]
+],
+"green": [
+11260,
+14720,
+19900
+],
+"red": [
+13140
+],
+"strobe": [
+1,
+2
+],
+"fix": {
+"Rogers": "Rodgers"
+},
+"colors": {
+"Rodgers": "C",
+"realm": "C",
+"traveling": "G",
+"Trevor": "G",
+"box": "Y",
+"Eagles": "C",
+"insane": "Y"
+}
+}
+]
